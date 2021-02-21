@@ -1,0 +1,44 @@
+'''from random import randint
+computador = randint(0, 5)
+print('Pensei no número {} '.format(computador))'''
+
+
+'''from random import randint
+computador = randint(0, 5) # Faz o computador "Pensar"
+print('-=- * 20')
+print('Vou pensar em um número entre 0 e 5. Tente adivinhar...')
+print('-=- * 20')
+jogador = int(input('Em que número eu pensei? ')) # jogador tente adivinhar
+if jogador == computador:
+    print('parabens! Voce comseguiu me vencer!')
+else:
+    print('Ganhei Eu pensei no número {}! '.format(computador, jogador))'''
+
+
+
+'''from random import randint
+from time import sleep
+computador = randint(0, 5) # Faz o computador "PENSAR"
+print('-=-' * 20)
+print('Vou pensar em um número entre 0 e 5. Tente adivinhar...')
+print('-=-' * 20)
+jogador = int(input('Em que número eu pensei? ')) # jogador tente adivinhar
+print('PROCESSANDO...')
+sleep(3)
+if jogador == computador:
+    print('parabéns! Voce comseguiu me vencer!')
+else:
+    print('Ganhei Eu pensei no número {}! '.format(computador, jogador))'''
+
+
+'''Velocidade = float(input('Qual é a velocidade atual do carro? '))
+if Velocidade > 80:
+    print('Multado! Voçe excedeu o limite permitido que é de 80km/h')
+    multa = (Velocidade-80) * 7
+    print('Voce deve pagar uma multa de R${:.2f}'.format(multa))
+print('Tenha um bom dia! Dirija com segurança!')'''
+
+número = int(input('Me diga um número qualquer: '))
+resultado = número % 2
+print('O resultado foi {}'.format(resultado))
+

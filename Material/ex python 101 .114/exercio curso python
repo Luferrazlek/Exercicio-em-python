@@ -1,0 +1,73 @@
+1) Escreva um programa em Python para contar de 1 até 10. 
+
+a) usando uma instrução enquanto 
+
+b) usando um Instrução para eA Função intervalo 
+
+ 
+
+2) Escreva um programa para contar quantos números pares e ímpares existentes entre 1 e 10 bem como a soma deles. 
+
+a) usando uma instrução enquanto 
+
+b) usando a instrução para e as funções intervalo e soma 
+
+ 
+
+3) Escreva um programa para resolver equações do segundo grau representadas por 
+
+uma
+
+x
+
+2
+
++ bx + c
+
+ usando uma Fórmula de Bhaskara. 
+
+a) sem usar o módulo matemática 
+
+b) usando o módulo matemática 
+
+Teste seu programa com os coeficientes: 
+
+[Equação] 
+
+ 
+
+4) Reescreva o programa acima criando uma função bhaskara que recebe como parâmetros os coeficientes a, bece retorna como raízes da equação. 
+
+ 
+
+5) Considere uma string s = 'Mentorama' escreva um programa que: 
+
+a) converta uma string para maiúsculo, em seguida 
+
+b) imprima-a de trás para frente 
+
+c) imprima somente como vogais 
+
+Por favor, nenhum campo abaixo coloque a sua resposta. Se precisar mandar uma maquete eletrônica ou qualquer outro arquivo, por favor, faça isso através de um link (Google Drive ou Dropbox). 
+
+Obrigado!
+
+ 
+
+Todas as tarefas têm um prazo de 5 dias para serem corrigidas. Por favor, não mande uma próxima tarefa para correção até que a atual não seja avaliada. 
+
+A nota mínima para aprovação nas atividades é 70. Caso não tenha atingido essa nota, você poderá refazer a tarefa.
+
+ 
+
+Atenção: uma vez que a tarefa foi submetida, não é possível acessá-la novamente. Se quiser uma cópia dessa atividade, por favor salve-a em seu dispositivo.
+
+ 
+
+
+Por favor, levem em consideração que realizar o projeto de conclusão, e consequentemente, receber o diploma, vão poder só aqueles que completarem todas as tarefas de casa. Ou seja, os que fizeram as tarefas e foram iniciados. 
+
+
+
+
+PS: Se for adicionar link (s) (direcionados ao Google Drive ou ao Dropbox), lembre-se de que é preciso deixar o acesso aberto a esse (s) link (s) para que o tutor possa acessá-lo (s). 
